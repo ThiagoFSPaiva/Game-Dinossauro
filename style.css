@@ -36,6 +36,7 @@
 
 }
 .jogo{
+    margin: auto;
    width: 520px;
    height: 200px;
    overflow-x: hidden;
